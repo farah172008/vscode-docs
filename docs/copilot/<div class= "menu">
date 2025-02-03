@@ -1,0 +1,11 @@
+<div class= "menu">
+        <ul>
+            <li><a href="#top">الصفحه الرئيسه</a><li>
+            <li><a href="#history">التاريخ</a></li>
+            <li><a href="gallery">المعرض</a></li>
+            <li><a href="about">نبذه</a></li>
+            <li><a href="contact-form.html"target="_blank">اتصل بنا</a><li>
+
+        </ul>
+        <div>
+<body>
